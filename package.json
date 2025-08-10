@@ -1,0 +1,22 @@
+{
+  "name": "suzuki_mori_wedding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momomo-yu/Yusuke_Yuka_Wedding.git"
+  },
+  "keywords": [
+    "wedding"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momomo-yu/Yusuke_Yuka_Wedding/issues"
+  },
+  "homepage": "https://github.com/momomo-yu/Yusuke_Yuka_Wedding#readme",
+  "description": ""
+}
